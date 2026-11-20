@@ -105,7 +105,7 @@ A next-generation college management and student support application designed fo
   </a>
 </p>
 
-📧 **Email:** Add your professional email address.
+📧 **Email:** ramkrishnachaurasiya362@gmail.com
 
 ---
 
